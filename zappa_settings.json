@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "app_function": "app.client",
+        "profile_name": "stephen",
+        "project_name": "discord-weather",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-knebuf5r4"
+    }
+}
