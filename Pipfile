@@ -9,6 +9,7 @@ verify_ssl = true
 discord = "*"
 certifi = "*"
 zappa = "*"
+requests = "*"
 
 [requires]
 python_version = "3.7"
