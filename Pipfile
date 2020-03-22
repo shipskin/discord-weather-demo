@@ -8,8 +8,8 @@ verify_ssl = true
 [packages]
 discord = "*"
 certifi = "*"
-zappa = "*"
 requests = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.7"
